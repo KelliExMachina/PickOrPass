@@ -86,6 +86,12 @@ As the model is used by others, their data can be saved, tagged, and then used a
 Questions about NFLsavant.com?
 NFLsavant.com was developed by Daren Willman. For questions, concerns, or issues you can contact him on twitter @darenw or by email darenw at gmail dot com.
 
+https://sportsdata.io/developers/data-dictionary/nfl
+
+https://www.pro-football-reference.com/players/K/KaepCo00.htm
+
+https://www.nfl.com/stats/player-stats/
+
 ## Next-steps  
 
 Pick Winners from weekly matchups
