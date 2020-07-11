@@ -22,6 +22,8 @@ NFL QB rating calculator.
 
 Gathering data from the NFL.
 
+Doesn't take into account team changes, skill deterioration from sitting on the bench, or personel changes.
+
 ## Table of Contents
 
 - [Context](#Context)
