@@ -1,16 +1,24 @@
-<p align="center"><img src="img/ben-hershey-eo3ePy_iWoE-unsplash.jpg" title="PickOrPass???"></a></p>  
+<p align="center"><img src="img/ben-hershey-eo3ePy_iWoE-unsplash.jpg" width="50%" height="50%" title="PickOrPass???"></a></p>  
 
-<span>Photo by <a href="https://unsplash.com/@benhershey?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ben Hershey</a> on <a href="https://unsplash.com/s/photos/american-football?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+<p align="center"><span>Photo by <a href="https://unsplash.com/@benhershey?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ben Hershey</a> on <a href="https://unsplash.com/s/photos/american-football?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></p>
 
 
 # Pick Or Pass ???  
 
-Linear regression for predicting NFL quarterback ratings.
+Linear regression application for predicting NFL quarterback ratings.
 
 
 ## Context
 
-This application is useful in analyzing ohotos or even video streams for security systems.  Rather than have a human sift through hours of video to see if a person has entered an unauthorized area, process the data through this application. 
+As Colin Krapernick was appointed to the Board at Medium, I thought that as a data scientist blogger rthat I should put forth a scientific effort to once and for all settle the 'he should play/should not play' argument.  As scientist, we must mention the limits to our experiment.  
+
+With basically all professional sports at a standstill due to the Coronavirus, I thought it would be interesting to write an application to assist with fantasy leagues and even sports betting. 
+
+Colin has not read a defense in years (time site here, preferrably last game), devil's advocate: defenses have not seen his play either.
+
+
+
+Gathering data from the NFL.
 
 ## Table of Contents
 
@@ -75,7 +83,10 @@ As the model is used by others, their data can be saved, tagged, and then used a
 
 
 ## Next-steps  
- 
+
+Pick Winners from weekly matchups
+Pick superbowel winner
+youtube video explaining 
 
 ## Citations
 
