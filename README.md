@@ -16,7 +16,9 @@ With basically all professional sports at a standstill due to the Coronavirus, I
 
 Colin has not read a defense in years (time site here, preferrably last game), devil's advocate: defenses have not seen his play either.
 
+2011-2016 some people only speak about his last two years as a starter, or year and a half for the pedanticts.
 
+NFL QB rating calculator.
 
 Gathering data from the NFL.
 
@@ -76,11 +78,13 @@ As the model is used by others, their data can be saved, tagged, and then used a
 
 ## Data-Sources
 
-[![Tufts Face Database][3]][4]
+[![NFLsavant][3]][4]
 
-[3]: img/tufts_university.png 
-[4]: http://tdface.ece.tufts.edu "Tufts Face Database: Request permission to use this dataset!!!"  
+[3]: img/NFLsavant.jpg 
+[4]: http://nflsavant.com/about.php "NFLsavant.com"  
 
+Questions about NFLsavant.com?
+NFLsavant.com was developed by Daren Willman. For questions, concerns, or issues you can contact him on twitter @darenw or by email darenw at gmail dot com.
 
 ## Next-steps  
 
